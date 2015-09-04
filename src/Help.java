@@ -2,8 +2,8 @@ import javax.swing.*;
 
 public class Help extends JFrame{
 
-	private static final long serialVersionUID = 1L;
-	private JLabel q1;	//Jlabel werden erstellt für Text der Help Class
+    private static final long serialVersionUID = 1L;
+    private JLabel q1;	//Jlabel werden erstellt fÃ¼r Text der Help Class
     private JLabel te11;
     private JLabel te12;
     private JLabel te13;
@@ -20,7 +20,7 @@ public class Help extends JFrame{
     public Help() {
     	
     	setLocationRelativeTo(null); //Fenster in die Mitte des Bildschirms
-    	setResizable(false); //Fenster kann nicht vergrößert oder verkleinert werden
+    	setResizable(false); //Fenster kann nicht vergrÃ¶ÃŸert oder verkleinert werden
     	
     	
     	//construct components
